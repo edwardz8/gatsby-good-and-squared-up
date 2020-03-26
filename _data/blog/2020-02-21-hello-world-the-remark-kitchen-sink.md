@@ -1,9 +1,9 @@
 ---
 template: BlogPost
-path: /remark-kitchen-sink
+path: /best-throwback-players-the-show
 date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
-thumbnail: /assets/image-6.jpg
+title: 'Best Throwback Players to Collect on MLBTheShow20'
+thumbnail: /assets/throwback_baseball_player.jpg
 ---
 # h1 Heading 8-)
 
