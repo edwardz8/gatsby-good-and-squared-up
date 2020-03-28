@@ -51,6 +51,6 @@ The attributes on the former closer for Cleveland include 3 fire bars with H/9 o
 
 ## David Ortiz - 1B - *86*
 
-Do you enjoy hitting bombs? If so, Big Papi is your guy in the Diamond Choice Pack if you pre-ordered the game or at Level 60 in the XP Reward Path; the card can also be purchased in the Community Market. The 2003 Breakout Card holds a 86 overall rating and absolutely smashes right-handed pitching. You'll likely want to bench the retired slugger against opposing lefties considering his below average Contact and Power of less than 40. During his 2003 season, Ortiz knocked in 101 RBI, 39 doubles and 31 bombs with a popping .961 OPS.  
+Do you enjoy hitting bombs? If so, Big Papi is your guy in the Diamond Choice Pack if you pre-ordered the game or at Level 60 in the XP Reward Path; the card can also be purchased in the Community Market. The 2003 Breakout Card holds a 86 overall rating and absolutely smashes right-handed pitching. You'll likely want to bench the retired slugger against opposing lefties considering his below average Contact and Power is less than 60 in both attributes. During his 2003 season, Ortiz knocked in 101 RBI, 39 doubles and 31 bombs with a popping .961 OPS.  
 
 ![David Ortiz](/assets/ortiz.jpg)
