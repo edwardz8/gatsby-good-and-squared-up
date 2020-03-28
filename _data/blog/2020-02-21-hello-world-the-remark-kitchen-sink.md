@@ -5,7 +5,7 @@ date: 2020-02-21T12:12:25.364Z
 title: 'Best Flashback Players to Target in MLBTheShow20'
 thumbnail: /assets/ortiz.jpg
 ---
-# Best Flashback Players to Target and Avoid in MLBTheShow20
+# Best Flashback Players to Target in MLBTheShow20
 
 - - -
 

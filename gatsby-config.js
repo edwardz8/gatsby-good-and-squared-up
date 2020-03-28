@@ -7,11 +7,11 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Good & Squared Up`,
+    title: `Good & SquaredUp`,
     description: `MLBTheShow20 & DFS Baseball Blog & Podcast`,
     siteUrl: `https://delog-w3layouts.netlify.com/`,
     home: {
-      title: `Good & Squared Up`,
+      title: `Good & SquaredUp`,
       description: `A baseball blog and podcast with musings about MLBTheShow20 and fantasy baseball.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
